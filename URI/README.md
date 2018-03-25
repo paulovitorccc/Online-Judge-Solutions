@@ -7,3 +7,6 @@
 - 1250 - KiloMan (https://www.urionlinejudge.com.br/judge/en/problems/view/1250)
 - 1285 - Different Digits (https://www.urionlinejudge.com.br/judge/en/problems/view/1285)
 - 1342 - Dice (https://www.urionlinejudge.com.br/judge/en/problems/view/1342)
+- 1426 - Add Bricks in The Wall (https://www.urionlinejudge.com.br/judge/en/problems/view/1426)
+- 1867 - The Greater One-digit Number (https://www.urionlinejudge.com.br/judge/en/problems/view/1867)
+
