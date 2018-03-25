@@ -1,1 +1,2 @@
-PRIME1 - Prime Generator (http://www.spoj.com/problems/PRIME1/)
+- PRIME1 - Prime Generator (http://www.spoj.com/problems/PRIME1/)
+- MARBLES - Marbles (http://www.spoj.com/problems/MARBLES/)

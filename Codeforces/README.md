@@ -16,5 +16,16 @@
 - 664A - Complicated GCD (http://codeforces.com/problemset/problem/664/A)
 - 822A - I'm bored with life (http://codeforces.com/problemset/problem/822/A)
 - 322A - Ciel and Flowers (http://codeforces.com/problemset/problem/322/B)
+- 630C - Lucky Numbers (http://codeforces.com/problemset/problem/630/C)
+- 621B - Wet Shark and Bishops (http://codeforces.com/problemset/problem/621/B)
+- 617B - Chocolate (http://codeforces.com/problemset/problem/617/B)
+- 610A - Pasha and Stick (http://codeforces.com/problemset/problem/610/A)
+- 131C - The World is a Theatre (http://codeforces.com/problemset/problem/131/C)
+- 560A - A. Currency System in Geraldion (http://codeforces.com/problemset/problem/560/A)
+- 514A - Chewbaсca and Number (http://codeforces.com/problemset/problem/514/A)
+- 466A - Cheap Travel (http://codeforces.com/problemset/problem/466/A)
+- 617A - Elephant (http://codeforces.com/problemset/problem/617/A)
+- 584A - Olesya and Rodion (http://codeforces.com/problemset/problem/584/A)
+- 124A - The number of positions (http://codeforces.com/problemset/problem/124/A)
 
 
