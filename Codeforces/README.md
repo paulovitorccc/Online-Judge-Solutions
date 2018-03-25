@@ -27,5 +27,7 @@
 - 617A - Elephant (http://codeforces.com/problemset/problem/617/A)
 - 584A - Olesya and Rodion (http://codeforces.com/problemset/problem/584/A)
 - 124A - The number of positions (http://codeforces.com/problemset/problem/124/A)
+- 520A - Pangram (http://codeforces.com/problemset/problem/520/A)
+- 501B - Misha and Changing Handles (http://codeforces.com/problemset/problem/501/B)
 
 

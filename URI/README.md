@@ -14,4 +14,7 @@
 - 1323 - Feynman (https://www.urionlinejudge.com.br/judge/en/problems/view/1323)
 - 2232 - Pascal's Triangle (https://www.urionlinejudge.com.br/judge/en/problems/view/2232)
 - 2584 - Pentagon (https://www.urionlinejudge.com.br/judge/en/problems/view/2584)
-
+- 1025 - Where is the Marble (https://www.urionlinejudge.com.br/judge/en/problems/view/1025)
+- 1068 - Parenthesis Balance I (https://www.urionlinejudge.com.br/judge/en/problems/view/1068)
+- 1062 - Rails (https://www.urionlinejudge.com.br/judge/en/problems/view/1062)
+- 1861 - Hall of Murderers (https://www.urionlinejudge.com.br/judge/en/problems/view/1861)
