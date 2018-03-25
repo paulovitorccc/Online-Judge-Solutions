@@ -9,4 +9,9 @@
 - 1342 - Dice (https://www.urionlinejudge.com.br/judge/en/problems/view/1342)
 - 1426 - Add Bricks in The Wall (https://www.urionlinejudge.com.br/judge/en/problems/view/1426)
 - 1867 - The Greater One-digit Number (https://www.urionlinejudge.com.br/judge/en/problems/view/1867)
+- 1926 - Marianne and The Twin Cousins (https://www.urionlinejudge.com.br/judge/en/problems/view/1926)
+- 1221 - Fast Prime Number (https://www.urionlinejudge.com.br/judge/en/problems/view/1221)
+- 1323 - Feynman (https://www.urionlinejudge.com.br/judge/en/problems/view/1323)
+- 2232 - Pascal's Triangle (https://www.urionlinejudge.com.br/judge/en/problems/view/2232)
+- 2584 - Pentagon (https://www.urionlinejudge.com.br/judge/en/problems/view/2584)
 

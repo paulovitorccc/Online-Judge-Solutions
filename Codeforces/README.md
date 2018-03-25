@@ -11,6 +11,10 @@
 - 160A - Twins (http://codeforces.com/problemset/problem/160/A)
 - 609A - USB Flash Drives (http://codeforces.com/problemset/problem/609/A)
 - 276B - Little Girl and Game (http://codeforces.com/problemset/problem/276/B)
-
+- 588B - Duff in Love (http://codeforces.com/problemset/problem/588/B)
+- 230B - T-primes (http://codeforces.com/problemset/problem/230/B)
+- 664A - Complicated GCD (http://codeforces.com/problemset/problem/664/A)
+- 822A - I'm bored with life (http://codeforces.com/problemset/problem/822/A)
+- 322A - Ciel and Flowers (http://codeforces.com/problemset/problem/322/B)
 
 
