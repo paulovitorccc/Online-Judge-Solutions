@@ -29,5 +29,6 @@
 - 124A - The number of positions (http://codeforces.com/problemset/problem/124/A)
 - 520A - Pangram (http://codeforces.com/problemset/problem/520/A)
 - 501B - Misha and Changing Handles (http://codeforces.com/problemset/problem/501/B)
-
-
+- 445A - DZY Loves Chessboard (http://codeforces.com/problemset/problem/445/A)
+- 266B - Queue at the School (http://codeforces.com/problemset/problem/266/B)
+- 489B - BerSU Ball (http://codeforces.com/problemset/problem/489/B)

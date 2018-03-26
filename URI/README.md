@@ -18,3 +18,6 @@
 - 1068 - Parenthesis Balance I (https://www.urionlinejudge.com.br/judge/en/problems/view/1068)
 - 1062 - Rails (https://www.urionlinejudge.com.br/judge/en/problems/view/1062)
 - 1861 - Hall of Murderers (https://www.urionlinejudge.com.br/judge/en/problems/view/1861)
+- 2562 - Analógimôn Types (https://www.urionlinejudge.com.br/judge/en/problems/view/2562)
+- 2485 - Bicho da Goiaba (https://www.urionlinejudge.com.br/judge/en/problems/view/2485)
+- 1883 - Escape From Ayutthaya (https://www.urionlinejudge.com.br/judge/en/problems/view/1883)
