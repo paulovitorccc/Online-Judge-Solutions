@@ -6,3 +6,4 @@
 - HIGHWAYS - Highways (http://www.spoj.com/problems/HIGHWAYS/)
 - REDOTICA - Rede ótica (http://br.spoj.com/problems/REDOTICA/)
 - BURACOS - Buracos de Minhoca (http://br.spoj.com/problems/BURACOS/)
+- NGM - A Game with Numbers (http://www.spoj.com/problems/NGM/)

@@ -1,0 +1,19 @@
+#include <bits/stdc++.h>
+ 
+using namespace std;
+ 
+ 
+int main() {
+ 
+	int num;
+	scanf("%d", &num);
+ 
+	int comp = num % 10;
+	if(comp != 0){
+		printf("%d\n", 1);
+		printf("%d\n", comp);
+	} else {
+		printf("%d\n", 2);
+	}
+	return 0;
+} 

@@ -21,3 +21,6 @@
 - 2562 - Analógimôn Types (https://www.urionlinejudge.com.br/judge/en/problems/view/2562)
 - 2485 - Bicho da Goiaba (https://www.urionlinejudge.com.br/judge/en/problems/view/2485)
 - 1883 - Escape From Ayutthaya (https://www.urionlinejudge.com.br/judge/en/problems/view/1883)
+- 2432 - Tiro ao alvo (https://www.urionlinejudge.com.br/judge/en/problems/view/2432)
+- 2376 - Copa do Mundo (https://www.urionlinejudge.com.br/judge/en/problems/view/2376)
+- 2458 - Setas (https://www.urionlinejudge.com.br/judge/en/problems/view/2458)

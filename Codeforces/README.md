@@ -32,3 +32,6 @@
 - 445A - DZY Loves Chessboard (http://codeforces.com/problemset/problem/445/A)
 - 266B - Queue at the School (http://codeforces.com/problemset/problem/266/B)
 - 489B - BerSU Ball (http://codeforces.com/problemset/problem/489/B)
+- 914B - Conan and Agasa play a Card Game (http://codeforces.com/problemset/problem/914/B)
+- 651A - Joysticks (http://codeforces.com/problemset/problem/651/A)	
+- 313B - Ilya and Queries (http://codeforces.com/problemset/problem/313/B)
