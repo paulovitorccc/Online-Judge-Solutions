@@ -2,4 +2,7 @@
 - MARBLES - Marbles (http://www.spoj.com/problems/MARBLES/)
 - QUEUEEZ - Easy Queue (http://www.spoj.com/problems/QUEUEEZ/)
 - PT07Y - Is it a tree (http://www.spoj.com/problems/PT07Y/)
-
+- EZDIJKST - Easy Dijkstra Problem (http://www.spoj.com/problems/EZDIJKST/)
+- HIGHWAYS - Highways (http://www.spoj.com/problems/HIGHWAYS/)
+- REDOTICA - Rede ótica (http://br.spoj.com/problems/REDOTICA/)
+- BURACOS - Buracos de Minhoca (http://br.spoj.com/problems/BURACOS/)
